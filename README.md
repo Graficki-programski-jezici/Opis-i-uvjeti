@@ -12,4 +12,4 @@ Ukoliko postoji sumnja varanja, vodi se kao izostanak.
 
 Ukoliko je prosjek kolokvija veći od 3.5 student se oslobađa pismenog dijela ispita.
 
-Vježbe će se održavati na kombinaciji LMS sustava TVZ-a i GitHuba. Predavanja će se održavati na Microsoft Teams platformi.
+Vježbe će se održavati na kombinaciji Microsoft Teams i GitHuba. Predavanja će se održavati na Microsoft Teams platformi uživo.
